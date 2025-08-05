@@ -1,0 +1,16 @@
+.watch{
+    width: 330px;
+    height: auto;
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px 24px;
+    text-align: center;
+    margin: auto;
+    border: black solid;
+}
+.name{
+    color: rgb(0, 0, 90);
+}
+.price{
+    color: rgb(2, 75, 2);
+}

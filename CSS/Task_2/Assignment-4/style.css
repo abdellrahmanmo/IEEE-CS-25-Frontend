@@ -1,0 +1,18 @@
+.w {
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    height: 100px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 0px 60px red;
+    padding: 24px 24px;
+}
+
+.name{
+
+    border-bottom: red 5px dotted;
+
+    width: 180px;
+}

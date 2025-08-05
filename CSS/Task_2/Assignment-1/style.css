@@ -1,0 +1,10 @@
+.w {
+    width: 330px;
+    height: 180px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 0px 60px;
+    padding: 20px 24px;
+    text-align: center;
+    margin: auto;
+}
