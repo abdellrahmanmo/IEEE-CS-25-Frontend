@@ -1,0 +1,30 @@
+
+.w {
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 150px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 0px 2px rgb(0, 0, 0);
+    padding: 24px 24px;
+}
+
+.name{
+
+    font-family: Timmana ;
+    border-bottom: rgb(0, 0, 0) 4px dashed;
+    margin: auto;
+    width: 280px;
+}
+.desc{
+    font-family: Sriracha;
+    text-align: center;
+
+}
+.T{
+    font-family: Alumni Sans Pinstripe ;
+    text-align: center;
+
+}
